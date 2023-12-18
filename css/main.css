@@ -3324,9 +3324,17 @@ input.num-product::-webkit-inner-spin-button {
 
   .w-full-ssm {width: 100%;}
 
-  /*---------------------------------------------*/
   .respon3 {
     padding: 20px;
   }
 
+}
+
+  .fixed-button{
+    position:fixed;
+    z-index: 1;
+    bottom:35px;
+    right:40px;
+    margin:0;
+    padding:5px 5px;
 }
